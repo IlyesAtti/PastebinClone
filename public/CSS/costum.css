@@ -1,0 +1,61 @@
+body{
+    background-color: #383838;
+    align-content: center;
+    margin : 0;
+}
+textarea{
+    margin-top: 25px;
+    font-size: 18px;
+    margin-left:10%;
+}
+
+button{
+    background-color: green;
+    border-radius: 15px;
+    color: #fff;
+    margin: 15px;
+    padding: 10px;
+    font-size: 24px;
+    margin-left: 45%;
+}
+a:link{
+    color:#fff;
+}
+a:visited{
+    color:antiquewhite;
+}
+table{
+    background-color: #383838;
+    color:#fff;
+    font-size: 18px;
+    margin-left:10%;
+
+}
+
+/* wellcomme*/
+
+p{
+    margin-top: 25px;
+    font-size: 18px;
+    margin-left:10%;
+    background-color:#fff;
+    color: #000;
+    padding: 2%;
+    margin-right: 10%;
+    border-radius: 15px;
+}
+button{
+    background-color: green;
+    border-radius: 15px;
+    color: #fff;
+    margin: 15px;
+    padding: 10px;
+    font-size: 24px;
+    margin-left: 45%;
+    margin-right: 45%;
+}
+
+h1{
+    color: #fff;
+    margin-left:10%;
+}
