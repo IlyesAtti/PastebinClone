@@ -8,7 +8,7 @@
     
     <body>
         <h1>Post</h1>
-        <p>{{ $post -> text }}</p>
+        <p>{{ $post->text }}</p>
         <button onclick = "goBack()" class = "btn btn-primary">Back</button>
     </body>
 </html>

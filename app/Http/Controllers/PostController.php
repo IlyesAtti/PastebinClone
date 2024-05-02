@@ -8,9 +8,9 @@ use App\Models\Post;
 class PostController extends Controller {
     function addPost(Request $req) {
         $post = new Post;
-        $post -> text = $req -> Text;
-        $post -> teaster = substr($req -> Text, 0, 25);
-        $post -> save();
+        $post->text = $req->Text;
+        $post->teaster = substr($req->Text, 0, 25);
+        $post->save();
         return redirect('/');
     }
 
