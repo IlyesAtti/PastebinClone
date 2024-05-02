@@ -17,3 +17,9 @@ yarn-error.log
 /.fleet
 /.idea
 /.vscode
+/bootstrap
+/config
+/database
+/storage
+/testes
+/editorconfig
